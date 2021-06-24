@@ -1,0 +1,15 @@
+{
+	"type": "module",
+	"name": "simple-gmail-from-node",
+	"version": "0.1.0",
+	"description": "A super basic implementation for sending emails through gmail using nodejs",
+	"main": "index.js",
+	"keywords": [
+		"nodejs",
+		"email",
+		"gmail",
+		"smtp"
+	],
+	"author": "FanatiQS",
+	"license": "MIT"
+}
